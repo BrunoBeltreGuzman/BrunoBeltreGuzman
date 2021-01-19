@@ -1,16 +1,17 @@
-### Hi there 👋
+# I am Bruno
 
-<!--
-**BrunoBeltreGuzman/BrunoBeltreGuzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**greet("Hello World !! 👋")**
 
-Here are some ideas to get you started:
+_I am a student of Computer Systems Engineering, I have experience in the development and design of information systems._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main programming languages are:
+
+**Java**
+
+**Javascript**
+
+**TypeScript**
+
+**PHP**
+
+_**And other development technologies.**_
