@@ -4,17 +4,5 @@
 
 > _I am a student of Computer Systems Engineering, I have experience in the development and design of information systems._
 
-My main programming languages are:
-
-- **Java**
-
-- **Javascript**
-
-- **TypeScript**
-
-- **PHP**
-
-_**And other development technologies.**_
-
 Personal Portfolio:
 https://brunobeltre.vercel.app/
