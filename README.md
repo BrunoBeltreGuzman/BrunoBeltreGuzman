@@ -6,3 +6,8 @@
 
 Personal Portfolio:
 https://brunobeltre.vercel.app/
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBeltreGuzman&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBeltreGuzman&theme=dark&layout=compact&hide=cMake,c%2B%2B)
